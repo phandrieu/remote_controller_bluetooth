@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.2/android/flutter_blue.iml" filepath="C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.2/android/flutter_blue.iml" group="android/flutter_blue" />
+      <module fileurl="file://C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bluetooth_serial-0.2.2/android/flutter_bluetooth_serial.iml" filepath="C:/tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bluetooth_serial-0.2.2/android/flutter_bluetooth_serial.iml" group="android/flutter_bluetooth_serial" />
+    </modules>
+  </component>
+</project>
