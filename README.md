@@ -1,3 +1,9 @@
 # remotecontrollerbt
 
-Application de contrôle du bras robotisé Roboti&#x27;Cse via une connexion Bluetooth
+Remote Controlling App for the Roboti'Cse robotic Arm : _Arm'uino_
+
+# For further informations : 
+
+**Contact** : 
+
+Mail : paul-henri@phandrieu.fr
