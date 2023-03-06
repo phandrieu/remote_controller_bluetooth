@@ -1,6 +1,6 @@
-# remotecontrollerbt
+# Remote Controller Bluetooth
 
-Remote Controlling App for the Roboti'Cse robotic Arm : _Arm'uino_
+A Flutter (Android/iOS) app designed to remote control the Arm'Uino robotic arm, a @Roboti'Cse project to make multi-axis arm based on the Arduino HDK. 
 
 # For further informations : 
 
